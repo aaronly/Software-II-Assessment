@@ -1,0 +1,10 @@
+addressId,address,address2,cityId,postalCode,phone,createDate,createdBy,lastUpdate,lastUpdateBy
+1,3005 Burnside Court,,1,85003,602-372-8043,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+2,356 Crowfield Road,,1,85023,602-843-5596,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+3,3310 Dogwood Road,,1,85008,602-683-9418,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+4,718 Geraldine Lane,,2,10011,646-274-8406,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+5,2724 Irving Place,,2,10011,631-993-4102,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+6,490 Bicetown Road,,2,10016,917-401-2942,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+7,24 Crown Street,,3,SW2 3GU,070 4564 2926,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+8,32 Crown Street,,3,W11 3YN,079 7182 8305,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols
+9,51 Crown Street,,3,TN30 6QL,070 2193 6586,2017-03-08 09:52:18,Aaron Echols,2017-03-08 09:52:45,Aaron Echols

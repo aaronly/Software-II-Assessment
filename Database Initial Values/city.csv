@@ -1,0 +1,13 @@
+cityId,city,countryId,createDate,createdBy,lastUpdate,lastUpdateBy
+1,Phoenix,1,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+2,New York,1,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+3,London,3,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+4,Tokyo,2,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+5,Beijing,4,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+6,Shanghai,4,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+7,Mumbai,5,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+8,Paris,9,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+9,Melbourne,7,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+10,Mexico City,8,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+11,Berlin,10,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols
+12,Brasília,6,2017-03-08 09:43:56,Aaron Echols,2017-03-08 09:44:04,Aaron Echols

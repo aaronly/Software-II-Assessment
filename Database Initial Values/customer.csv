@@ -1,0 +1,10 @@
+customerId,customerName,addressId,active,createDate,createdBy,lastUpdate,lastUpdateBy
+1,Chloe Mann,1,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+2,Michele Vargo,2,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+3,Janis Young,3,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+4,Chad Allan,4,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+5,Madaline Ellman,5,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+6,William Chamberlain,6,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+7,Heather Bolden,7,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+8,Doris Bell,8,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols
+9,Donna Applin,9,1,2017-03-08 09:58:43,Aaron Echols,2017-03-08 10:00:35,Aaron Echols

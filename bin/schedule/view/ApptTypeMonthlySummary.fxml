@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="800.0" prefWidth="800.0" stylesheets="@DarkTheme.css"
+	xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111"
+	fx:controller="schedule.view.ApptTypeMonthlySummaryController">
+	<children>
+		<BarChart fx:id="barChart" layoutX="39.0" layoutY="105.0"
+			AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+			AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<xAxis>
+				<CategoryAxis side="BOTTOM" fx:id="xAxis" />
+			</xAxis>
+			<yAxis>
+				<NumberAxis side="LEFT" />
+			</yAxis>
+		</BarChart>
+	</children>
+</AnchorPane>
